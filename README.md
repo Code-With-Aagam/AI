@@ -1,1 +1,1 @@
-# AI
+# AI Lab Exercises
