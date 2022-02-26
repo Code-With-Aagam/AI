@@ -8,3 +8,4 @@
 | 5 | [Latin Square Problem](https://github.com/Code-With-Aagam/AI/blob/main/Latin%20Square%20Problem/lsp.py)
 | 6 | [8 Puzzle](https://github.com/Code-With-Aagam/AI/blob/main/8-Puzzle%20using%20A*%20Algorithm./A*.py)
 | 7 | [Best First Search](https://github.com/Code-With-Aagam/AI/tree/main/Best%20First%20Search)
+| 8 | [A* Search Algorithm](https://github.com/Code-With-Aagam/AI/blob/main/A*%20Search%20Algorithm/A*A.py)
