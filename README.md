@@ -9,3 +9,5 @@
 | 6 | [8 Puzzle](https://github.com/Code-With-Aagam/AI/blob/main/8-Puzzle%20using%20A*%20Algorithm./A*.py)
 | 7 | [Best First Search](https://github.com/Code-With-Aagam/AI/tree/main/Best%20First%20Search)
 | 8 | [A* Search Algorithm](https://github.com/Code-With-Aagam/AI/blob/main/A*%20Search%20Algorithm/A*A.py)
+| 9 | [BFS implementation in Web crawling](https://github.com/Code-With-Aagam/AI/blob/main/BFS%20implementation%20in%20Web%20crawling/BFA.py)
+| 10 | [DFS implementation in 6 * 6 Sudoku](https://github.com/Code-With-Aagam/AI/blob/main/DFS%20implementation%20in%206%20*%206%20Sudoku/DFS-Sudoku.py)
